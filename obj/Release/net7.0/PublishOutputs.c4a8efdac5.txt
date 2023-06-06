@@ -1,0 +1,11 @@
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\web-app-openai.exe
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\web-app-openai.dll
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\web-app-openai.deps.json
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\web-app-openai.runtimeconfig.json
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\web-app-openai.pdb
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\Azure.AI.OpenAI.dll
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\Azure.Core.dll
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\web-app-openai\obj\Release\net7.0\PubTmp\Out\System.Memory.Data.dll

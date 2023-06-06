@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    
+        <form  asp-page-handler="classificar" method="post" class="input-group mb-3" >
+            <input type="text" name="Comentary" value="" class="form-control" placeholder="Conte como foi sua experiência no nosso restaurante" aria-label="Conte como foi sua experiência no nosso restaurante">
+            <button class="btn btn-primary" type="submit" >Submit</button>
+        </form>
+  
+    <br />
+    @if (!string.IsNullOrEmpty(Model.ClassificationResult)) {
+        <div class="alert alert-info" role="alert">
+            <i class="fa fa-check"></i>Classificamos este comentário como: @Model.ClassificationResult
+        </div>
+    }
+</div>
